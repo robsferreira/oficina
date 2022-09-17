@@ -6,7 +6,7 @@
 
 Desafio enviado pelo grande Mayk Brito...
 
-  [🔗 Clique aqui para acessar](https://robsferreira.github.io/oficina_do-computador/) 
+  [🔗 Clique aqui para acessar](https://robsferreira.github.io/oficina/) 
     
 
   ## 👨‍💻 Tecnologias 
